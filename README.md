@@ -9,7 +9,7 @@ After working in the Financial Services industry for 9 years, I discovered my pa
 * 🌍  I'm based in Perth, Western Australia
 * 🖥️  See my portfolio at [benphoon.digital](http://benphoon.digital/)
 * ✉️  You can contact me at [phoon.ben@gmail.com](mailto:phoon.ben@gmail.com)
-* 🧠  I'm learning about AWS and studying for the Associate Architect Certification.
+* 🧠  I'm learning about AWS and studying for the Associate Solutions Architect Certification.
 * ⚡  In my (limited) spare time, I love to play the bass guitar, go fishing with friends and follow the Formula 1!
 
 ### Skills
