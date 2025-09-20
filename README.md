@@ -7,7 +7,7 @@ Web Developer
 After working in the Financial Services industry for 9 years, I discovered my passion for creating cool things with code! I have been working full time and studying on the side - starting with HTML & CSS before moving on to Javascript, React, Node and Express. I am continuing to work on my skills while building projects and keeping an eye out for opportunities to start a new career.
 
 * 🌍  I'm based in Perth, Western Australia
-* 🖥️  See my portfolio at [benphoon.digital](http://benphoon.digital/)
+* 🖥️  See my portfolio at [benphoon.digital](http://benphoon.dev/)
 * ✉️  You can contact me at [phoon.ben@gmail.com](mailto:phoon.ben@gmail.com)
 * 🧠  I'm learning about AWS and studying for the Associate Solutions Architect Certification.
 * ⚡  In my (limited) spare time, I love to play the bass guitar, go fishing with friends and follow the Formula 1!
