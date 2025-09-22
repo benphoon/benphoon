@@ -10,7 +10,6 @@ I’ve acted as tech lead across multiple delivery cycles, collaborating with pr
 
 💡 Highlights
 * Tech Lead for marketing compliance pipelines, player offer assignment services, and real-time event streaming.
-* Delivered VGW’s first PAM integration, first AWS MSK → Snowflake connector, and a custom Slack alerting framework adopted team-wide.
 * Experienced with mentoring, incident response, and system design, fostering collaboration and technical growth within the team.
 * Strong foundation in Kotlin, AWS, Kubernetes, and Snowflake with multiple AWS certifications and CKAD.
 
