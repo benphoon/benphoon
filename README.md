@@ -20,6 +20,9 @@ I’ve acted as tech lead across multiple delivery cycles, collaborating with pr
 * Practices: CI/CD, Monitoring & Alerting, Testing, Incident Response, System Design
 
 🌍  Perth, Western Australia
+
 🖥️  Portfolio: [benphoon.dev](http://benphoon.dev/)
+
 ✉️  [phoon.ben@gmail.com](mailto:phoon.ben@gmail.com)
+
 💼  [LinkedIn](https://www.linkedin.com/in/ben-phoon/)
